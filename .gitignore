@@ -1,0 +1,6 @@
+.vscode/c_cpp_properties.json
+*.P
+.vscode/settings.json
+*.o
+outfile.elf
+outfile.hex
